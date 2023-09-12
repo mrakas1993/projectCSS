@@ -1,0 +1,20 @@
+.a{
+    color:white;
+    font-size: 50px;
+    font-weight: 700;
+    text-decoration: underline;
+    background: green;
+    letter-spacing: 10px;
+}
+div{
+    width: 50px;
+    height: 50px;
+    background: red;
+    border:2px solid green;
+    border-radius: 10px;
+}
+.b{
+    display:inline-block;
+    border-bottom: 1px solid green;
+}
+
